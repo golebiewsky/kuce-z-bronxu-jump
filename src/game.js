@@ -224,8 +224,7 @@ scene("main", () => {
             volume: 0.05,
         });
         go("over");
-    })
-
+    });
 });
 // Start the game by playing 'start' scene
 start("start");
