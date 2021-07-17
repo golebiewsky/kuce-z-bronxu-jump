@@ -1,6 +1,7 @@
 # Kuce z Bronxu Jump
 Game inspired by [Jakub 'Dem' Dębski](https://www.demland.net/) series [Kuce z Bronxu](https://youtube.com/playlist?list=PL7k8nNY9B5LwQ7kwoB0ZoZmaVqrWEPd0o) written in [KaBoom.js](https://kaboomjs.com/).
 
+You can play the game [on my site](https://golebiewsky.com/kuce-z-bronxu-jump.html).
 
 ## Running the game
 To run the game you will need a webserver. There is a great article on [Phaser website](https://phaser.io/tutorials/getting-started-phaser3/part2) on how to do this and why it is needed.
